@@ -1,0 +1,3 @@
+[submodule "hardware/lib/libopencm3"]
+	path = hardware/lib/libopencm3
+	url = https://github.com/GSSM-AutoGolfCart/libopencm3
